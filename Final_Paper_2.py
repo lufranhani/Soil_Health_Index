@@ -6,7 +6,7 @@ Created on Wed Sep 16 10:40:21 2026
 """
 
 # ==============================================================
-# ECOTONE STUDY — BAURU SP — ALL FIGURES v3 (FONTES AUMENTADAS)
+# ECOTONE STUDY — BAURU SP — ALL FIGURES v3
 # ==============================================================
 
 # In[0.1]: Environment bootstrap
